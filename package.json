@@ -18,6 +18,6 @@
     "node-onvif": "^0.1.7",
     "node-rtsp-stream": "0.0.8",
     "restify": "^8.4.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
